@@ -1,0 +1,6 @@
+C:\nghiant\code\solid\solid\bin\Debug\solid.exe.config
+C:\nghiant\code\solid\solid\bin\Debug\solid.exe
+C:\nghiant\code\solid\solid\bin\Debug\solid.pdb
+C:\nghiant\code\solid\solid\obj\Debug\SingleResponsibility.csprojResolveAssemblyReference.cache
+C:\nghiant\code\solid\solid\obj\Debug\solid.exe
+C:\nghiant\code\solid\solid\obj\Debug\solid.pdb
