@@ -1,6 +1,0 @@
-C:\nghiant\code\solid\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
-C:\nghiant\code\solid\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
-C:\nghiant\code\solid\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
-C:\nghiant\code\solid\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csprojResolveAssemblyReference.cache
-C:\nghiant\code\solid\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
-C:\nghiant\code\solid\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb

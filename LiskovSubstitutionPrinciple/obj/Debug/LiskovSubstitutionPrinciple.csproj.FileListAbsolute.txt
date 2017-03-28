@@ -1,6 +1,0 @@
-C:\nghiant\code\solid\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
-C:\nghiant\code\solid\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
-C:\nghiant\code\solid\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
-C:\nghiant\code\solid\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojResolveAssemblyReference.cache
-C:\nghiant\code\solid\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
-C:\nghiant\code\solid\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

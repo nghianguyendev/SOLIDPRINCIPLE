@@ -1,0 +1,10 @@
+/DependencyInjection/bin
+/DependencyInjection/obj
+/LiskovSubstitutionPrinciple/obj
+/LiskovSubstitutionPrinciple/bin
+/InterfaceSegregationPrinciple/obj
+/InterfaceSegregationPrinciple/bin
+/OpenClosePrinciple/bin
+/OpenClosePrinciple/obj
+/SingleResponsibility/obj
+/SingleResponsibility/bin
